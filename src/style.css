@@ -1,0 +1,21 @@
+.background {
+    background: url(../src/images/h-images.jpg);
+    /* background-color: #a52a2af2; */
+    /* position: relative; */
+}
+
+.background h1 {
+    /* align-items: center; */
+    /* margin-top: 50%; */
+    /* margin-bottom: 50%; */
+}
+
+.title {
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+
+
